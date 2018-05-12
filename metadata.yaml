@@ -1,0 +1,28 @@
+_repo: India-Under-British-RuleFrom-the-Foundation-of-the-East-India-Company_46151
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46151-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Wheeler, James Talboys
+    alias: Wheeler, J. Talboys (James Talboys)
+    birthdate: 1824
+    deathdate: 1897
+    gutenberg_agent_id: '43634'
+    url: http://www.gutenberg.org/2009/agents/43634
+description: ''
+gutenberg_issued: '2014-06-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46151'
+  lccn: '46029761'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DS'
+- !lcsh 'India -- History -- British occupation, 1765-1947'
+title: India Under British Rule from the Foundation of the East India Company
+url: http://www.gutenberg.org/ebooks/46151
